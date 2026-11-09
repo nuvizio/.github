@@ -33,13 +33,13 @@
     "is_private": false,
     "category": "Reference, Learning & Finance",
     "description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize \ud83d\udd25    We release the trained model on HuggingFace.",
-    "local_pushed": "2024-12-26T03:22:34Z",
+    "local_pushed": "2026-11-09T00:56:31Z",
     "default_branch": "master",
     "upstream_parent": "AI4Finance-Foundation/FinGPT",
     "upstream_pushed": "2026-10-25T13:49:15Z",
     "ahead_by": 0,
-    "behind_by": 83,
-    "sync_status": "Behind (-83 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "nuvizio.github.io",
@@ -61,13 +61,13 @@
     "is_private": false,
     "category": "Learning, Knowledge Hubs & AI Agents",
     "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-    "local_pushed": "2025-08-17T13:23:07Z",
+    "local_pushed": "2026-11-09T00:56:38Z",
     "default_branch": "main",
     "upstream_parent": "rasbt/LLMs-from-scratch",
     "upstream_pushed": "2026-11-06T21:20:06Z",
     "ahead_by": 0,
-    "behind_by": 171,
-    "sync_status": "Behind (-171 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "nuvizio-alpha-edge",
@@ -117,13 +117,13 @@
     "is_private": false,
     "category": "Reference, Learning & Finance",
     "description": "Curated list of project-based tutorials",
-    "local_pushed": "2024-08-15T05:33:54Z",
+    "local_pushed": "2026-11-09T00:55:54Z",
     "default_branch": "master",
     "upstream_parent": "practical-tutorials/project-based-learning",
     "upstream_pushed": "2026-11-02T06:38:53Z",
     "ahead_by": 0,
-    "behind_by": 41,
-    "sync_status": "Behind (-41 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "worldnews",
@@ -159,13 +159,13 @@
     "is_private": false,
     "category": "Avatar: Voice, Speech & Audio Customization",
     "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
-    "local_pushed": "2025-10-26T22:53:20Z",
+    "local_pushed": "2026-11-09T00:56:33Z",
     "default_branch": "main",
     "upstream_parent": "RVC-Boss/GPT-SoVITS",
     "upstream_pushed": "2026-10-31T15:56:56Z",
     "ahead_by": 0,
-    "behind_by": 54,
-    "sync_status": "Behind (-54 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "X-AnyLabeling",
@@ -187,13 +187,13 @@
     "is_private": false,
     "category": "Reference, Learning & Finance",
     "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
-    "local_pushed": "2025-10-24T05:25:40Z",
+    "local_pushed": "2026-11-09T00:56:07Z",
     "default_branch": "main",
     "upstream_parent": "Open-Dev-Society/OpenStock",
     "upstream_pushed": "2026-11-04T12:13:42Z",
     "ahead_by": 0,
-    "behind_by": 169,
-    "sync_status": "Behind (-169 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "nanochat",
@@ -215,13 +215,13 @@
     "is_private": false,
     "category": "Avatar: Voice, Speech & Audio Customization",
     "description": "SoTA open-source TTS",
-    "local_pushed": "2025-09-25T05:04:49Z",
+    "local_pushed": "2026-11-09T00:56:16Z",
     "default_branch": "master",
     "upstream_parent": "resemble-ai/chatterbox",
     "upstream_pushed": "2026-11-04T18:48:12Z",
     "ahead_by": 0,
-    "behind_by": 14,
-    "sync_status": "Behind (-14 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "public-apis",
@@ -313,13 +313,13 @@
     "is_private": false,
     "category": "Media Infrastructure & Compute Tooling",
     "description": "The open-source CapCut alternative",
-    "local_pushed": "2025-10-24T18:01:40Z",
+    "local_pushed": "2026-11-09T00:58:26Z",
     "default_branch": "main",
     "upstream_parent": "OpenCut-app/OpenCut",
     "upstream_pushed": "2026-09-24T09:24:44Z",
     "ahead_by": 0,
-    "behind_by": 390,
-    "sync_status": "Behind (-390 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "Wan2.2",
@@ -341,13 +341,13 @@
     "is_private": false,
     "category": "Media Infrastructure & Compute Tooling",
     "description": "",
-    "local_pushed": "2025-11-01T14:13:22Z",
+    "local_pushed": "2026-11-09T00:56:44Z",
     "default_branch": "master",
     "upstream_parent": "FFmpeg-Builds/FFmpeg-Builds",
     "upstream_pushed": "2026-11-08T12:54:39Z",
     "ahead_by": 0,
-    "behind_by": 233,
-    "sync_status": "Behind (-233 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "ffmpeg-build",
@@ -439,13 +439,13 @@
     "is_private": false,
     "category": "Media Infrastructure & Compute Tooling",
     "description": "End-to-end realtime stack for connecting humans and AI",
-    "local_pushed": "2025-11-03T22:43:11Z",
+    "local_pushed": "2026-11-09T00:58:05Z",
     "default_branch": "master",
     "upstream_parent": "livekit/livekit",
     "upstream_pushed": "2026-11-08T22:00:22Z",
     "ahead_by": 0,
-    "behind_by": 692,
-    "sync_status": "Behind (-692 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "mediasoup",
@@ -467,13 +467,13 @@
     "is_private": false,
     "category": "Learning, Knowledge Hubs & AI Agents",
     "description": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
-    "local_pushed": "2025-10-23T17:12:11Z",
+    "local_pushed": "2026-11-09T00:58:46Z",
     "default_branch": "main",
     "upstream_parent": "github/spec-kit",
     "upstream_pushed": "2026-11-07T04:09:22Z",
     "ahead_by": 0,
-    "behind_by": 1949,
-    "sync_status": "Behind (-1949 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "alg-lib",
@@ -509,13 +509,13 @@
     "is_private": false,
     "category": "Avatar: Visuals, 3D Human & Motion",
     "description": "Industry leading face manipulation platform",
-    "local_pushed": "2025-11-05T11:00:23Z",
+    "local_pushed": "2026-11-09T00:55:12Z",
     "default_branch": "master",
     "upstream_parent": "facefusion/facefusion",
     "upstream_pushed": "2026-11-07T14:31:01Z",
     "ahead_by": 0,
-    "behind_by": 29,
-    "sync_status": "Behind (-29 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "vllm",
@@ -635,13 +635,13 @@
     "is_private": false,
     "category": "Avatar: Voice, Speech & Audio Customization",
     "description": "Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.",
-    "local_pushed": "2025-11-07T16:23:47Z",
+    "local_pushed": "2026-11-09T00:58:39Z",
     "default_branch": "main",
     "upstream_parent": "QwenAudio/CosyVoice",
     "upstream_pushed": "2026-05-25T18:15:40Z",
     "ahead_by": 0,
-    "behind_by": 101,
-    "sync_status": "Behind (-101 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "fish-speech",
@@ -649,13 +649,13 @@
     "is_private": false,
     "category": "Avatar: Voice, Speech & Audio Customization",
     "description": "SOTA Open Source TTS",
-    "local_pushed": "2025-11-06T07:17:27Z",
+    "local_pushed": "2026-11-09T00:59:39Z",
     "default_branch": "main",
     "upstream_parent": "fishaudio/fish-speech",
     "upstream_pushed": "2026-11-02T20:02:21Z",
     "ahead_by": 0,
-    "behind_by": 50,
-    "sync_status": "Behind (-50 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "ACE-Step",
@@ -711,7 +711,7 @@
     "upstream_pushed": "2026-11-09T00:26:37Z",
     "ahead_by": 0,
     "behind_by": 0,
-    "sync_status": "Unknown"
+    "sync_status": "In Sync"
   },
   {
     "name": "ffmpeg-kit",
@@ -747,13 +747,13 @@
     "is_private": false,
     "category": "Avatar: Voice, Speech & Audio Customization",
     "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open",
-    "local_pushed": "2025-06-04T13:08:48Z",
+    "local_pushed": "2026-11-09T00:59:45Z",
     "default_branch": "main",
     "upstream_parent": "multimodal-art-projection/YuE",
     "upstream_pushed": "2026-11-01T05:46:34Z",
     "ahead_by": 0,
-    "behind_by": 94,
-    "sync_status": "Behind (-94 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "YuEGP",
@@ -775,13 +775,13 @@
     "is_private": false,
     "category": "Avatar: Voice, Speech & Audio Customization",
     "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
-    "local_pushed": "2025-09-08T10:58:26Z",
+    "local_pushed": "2026-11-09T00:55:36Z",
     "default_branch": "main",
     "upstream_parent": "openai/whisper",
     "upstream_pushed": "2026-08-31T17:19:19Z",
     "ahead_by": 0,
-    "behind_by": 5,
-    "sync_status": "Behind (-5 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "faster-whisper",
@@ -789,13 +789,13 @@
     "is_private": false,
     "category": "Avatar: Voice, Speech & Audio Customization",
     "description": "Faster Whisper transcription with CTranslate2",
-    "local_pushed": "2025-10-31T11:34:00Z",
+    "local_pushed": "2026-11-09T01:00:34Z",
     "default_branch": "master",
     "upstream_parent": "SYSTRAN/faster-whisper",
     "upstream_pushed": "2026-11-06T17:24:51Z",
     "ahead_by": 0,
-    "behind_by": 16,
-    "sync_status": "Behind (-16 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "ChatTTS",
@@ -803,13 +803,13 @@
     "is_private": false,
     "category": "Avatar: Voice, Speech & Audio Customization",
     "description": "A generative speech model for daily dialogue.",
-    "local_pushed": "2025-07-06T15:11:14Z",
+    "local_pushed": "2026-11-09T01:00:02Z",
     "default_branch": "main",
     "upstream_parent": "2noise/ChatTTS",
     "upstream_pushed": "2026-04-10T16:33:48Z",
     "ahead_by": 0,
-    "behind_by": 13,
-    "sync_status": "Behind (-13 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "public-dataset",
@@ -887,13 +887,13 @@
     "is_private": false,
     "category": "Media Infrastructure & Compute Tooling",
     "description": "The ultimate training toolkit for finetuning diffusion models",
-    "local_pushed": "2025-11-28T16:36:28Z",
+    "local_pushed": "2026-11-09T01:01:08Z",
     "default_branch": "main",
     "upstream_parent": "ostris/ai-toolkit",
     "upstream_pushed": "2026-11-04T20:12:58Z",
     "ahead_by": 0,
-    "behind_by": 720,
-    "sync_status": "Behind (-720 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "Z-Image",
@@ -985,13 +985,13 @@
     "is_private": false,
     "category": "Learning, Knowledge Hubs & AI Agents",
     "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars \u2b50. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
-    "local_pushed": "2026-04-10T04:00:47Z",
+    "local_pushed": "2026-11-09T01:00:45Z",
     "default_branch": "main",
     "upstream_parent": "ultraworkers/claw-code",
     "upstream_pushed": "2026-11-08T20:21:40Z",
     "ahead_by": 0,
-    "behind_by": 1125,
-    "sync_status": "Behind (-1125 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "docling",
@@ -1044,10 +1044,10 @@
     "local_pushed": "2026-04-23T14:44:20Z",
     "default_branch": "main",
     "upstream_parent": "unslothai/unsloth",
-    "upstream_pushed": "2026-11-09T00:35:47Z",
+    "upstream_pushed": "2026-11-09T01:07:38Z",
     "ahead_by": 0,
-    "behind_by": 8625,
-    "sync_status": "Behind (-8625 commits)"
+    "behind_by": 8627,
+    "sync_status": "Behind (-8627 commits)"
   },
   {
     "name": "claude_engineer_skills",
@@ -1086,10 +1086,10 @@
     "local_pushed": "2026-05-02T10:38:03Z",
     "default_branch": "main",
     "upstream_parent": "NousResearch/hermes-agent",
-    "upstream_pushed": "2026-11-09T00:33:14Z",
+    "upstream_pushed": "2026-11-09T01:07:51Z",
     "ahead_by": 0,
-    "behind_by": 57088,
-    "sync_status": "Behind (-57088 commits)"
+    "behind_by": 57092,
+    "sync_status": "Behind (-57092 commits)"
   },
   {
     "name": "dify-golang",
@@ -1198,10 +1198,10 @@
     "local_pushed": "2026-05-04T23:38:08Z",
     "default_branch": "main",
     "upstream_parent": "pbakaus/impeccable",
-    "upstream_pushed": "2026-11-09T00:25:51Z",
+    "upstream_pushed": "2026-11-09T01:07:58Z",
     "ahead_by": 0,
-    "behind_by": 2034,
-    "sync_status": "Behind (-2034 commits)"
+    "behind_by": 2038,
+    "sync_status": "Behind (-2038 commits)"
   },
   {
     "name": "html-ppt-skill",
@@ -1211,11 +1211,11 @@
     "description": "HTML PPT Studio \u2014 AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
     "local_pushed": "2026-11-09T00:45:05Z",
     "default_branch": "main",
-    "upstream_parent": "lewislulu/html-ppt-skill",
-    "upstream_pushed": "2026-09-14T07:36:59Z",
+    "upstream_parent": null,
+    "upstream_pushed": null,
     "ahead_by": 0,
     "behind_by": 0,
-    "sync_status": "In Sync"
+    "sync_status": "Unknown"
   },
   {
     "name": "frontend-slides",
@@ -1265,13 +1265,13 @@
     "is_private": false,
     "category": "High-Fidelity Document & UI Systems",
     "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
-    "local_pushed": "2026-05-17T10:34:55Z",
+    "local_pushed": "2026-11-09T01:04:59Z",
     "default_branch": "main",
     "upstream_parent": "nexu-io/html-anything",
     "upstream_pushed": "2026-11-08T16:41:56Z",
     "ahead_by": 0,
-    "behind_by": 25,
-    "sync_status": "Behind (-25 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "pretext",
@@ -1338,10 +1338,10 @@
     "local_pushed": "2026-09-17T00:37:30Z",
     "default_branch": "main",
     "upstream_parent": "bilawalsidhu/gods-eye-view",
-    "upstream_pushed": "2026-11-09T00:27:41Z",
+    "upstream_pushed": "2026-11-09T00:53:41Z",
     "ahead_by": 0,
-    "behind_by": 2868,
-    "sync_status": "Behind (-2868 commits)"
+    "behind_by": 2875,
+    "sync_status": "Behind (-2875 commits)"
   },
   {
     "name": "screenshot-to-code",
@@ -1363,13 +1363,13 @@
     "is_private": false,
     "category": "Learning, Knowledge Hubs & AI Agents",
     "description": "Turn any technical book PDF into a Claude Code skill \u2014 ready to study, reference, and use while you work.",
-    "local_pushed": "2026-09-22T17:45:44Z",
+    "local_pushed": "2026-11-09T01:04:42Z",
     "default_branch": "master",
     "upstream_parent": "virgiliojr94/book-to-skill",
     "upstream_pushed": "2026-11-08T21:22:31Z",
     "ahead_by": 0,
-    "behind_by": 53,
-    "sync_status": "Behind (-53 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "bifrost",
@@ -1380,7 +1380,7 @@
     "local_pushed": "2026-09-28T10:19:13Z",
     "default_branch": "dev",
     "upstream_parent": "maximhq/bifrost",
-    "upstream_pushed": "2026-11-08T21:00:17Z",
+    "upstream_pushed": "2026-11-09T01:06:13Z",
     "ahead_by": 0,
     "behind_by": 1634,
     "sync_status": "Behind (-1634 commits)"
@@ -1394,10 +1394,10 @@
     "local_pushed": "2026-09-25T09:45:05Z",
     "default_branch": "master",
     "upstream_parent": "paperclipai/paperclip",
-    "upstream_pushed": "2026-11-09T00:39:29Z",
+    "upstream_pushed": "2026-11-09T01:08:43Z",
     "ahead_by": 0,
-    "behind_by": 2498,
-    "sync_status": "Behind (-2498 commits)"
+    "behind_by": 2500,
+    "sync_status": "Behind (-2500 commits)"
   },
   {
     "name": "claude-plugins-official",
@@ -1405,13 +1405,13 @@
     "is_private": false,
     "category": "Learning, Knowledge Hubs & AI Agents",
     "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "local_pushed": "2026-09-25T06:00:17Z",
+    "local_pushed": "2026-11-09T01:06:02Z",
     "default_branch": "main",
     "upstream_parent": "anthropics/claude-plugins-official",
     "upstream_pushed": "2026-11-08T07:28:26Z",
     "ahead_by": 0,
-    "behind_by": 442,
-    "sync_status": "Behind (-442 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "gemini-usage-center",
@@ -1475,13 +1475,13 @@
     "is_private": false,
     "category": "High-Fidelity Document & UI Systems",
     "description": "\ud83d\udd77\ufe0f An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-    "local_pushed": "2026-10-03T12:16:45Z",
+    "local_pushed": "2026-11-09T01:07:30Z",
     "default_branch": "main",
     "upstream_parent": "D4Vinci/Scrapling",
     "upstream_pushed": "2026-11-08T13:18:31Z",
     "ahead_by": 0,
-    "behind_by": 195,
-    "sync_status": "Behind (-195 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "go_comfy",
@@ -1587,13 +1587,13 @@
     "is_private": false,
     "category": "High-Fidelity Document & UI Systems",
     "description": "UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refine against real screenshots. \u7ed9 AI Agent \u7528\u7684 UI \u8bbe\u8ba1 Skill\u3002",
-    "local_pushed": "2026-10-18T17:31:05Z",
+    "local_pushed": "2026-11-09T01:07:20Z",
     "default_branch": "main",
     "upstream_parent": "oil-oil/oil-ui",
     "upstream_pushed": "2026-11-08T03:46:14Z",
     "ahead_by": 0,
-    "behind_by": 32,
-    "sync_status": "Behind (-32 commits)"
+    "behind_by": 0,
+    "sync_status": "In Sync"
   },
   {
     "name": "book-ai",
@@ -1657,7 +1657,7 @@
     "is_private": false,
     "category": "Internal & Proprietary Systems",
     "description": "Nuvizio Organization Profile & Live Repository Catalog",
-    "local_pushed": "2026-11-09T00:35:43Z",
+    "local_pushed": "2026-11-09T00:45:26Z",
     "default_branch": "main",
     "upstream_parent": null,
     "upstream_pushed": null,
